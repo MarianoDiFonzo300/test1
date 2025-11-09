@@ -3,3 +3,6 @@ def saludo():
 
 if __name__ == "__main__":
     saludo()
+
+def matar():
+    print("Viva dios y la vida ")
