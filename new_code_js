@@ -1,5 +1,1 @@
-def saludo():
-    print("Hola, soy la versión del MAIN")
 
-if __name__ == "__main__":
-    saludo()
